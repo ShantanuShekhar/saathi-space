@@ -1,11 +1,11 @@
-# 🏡 Saathi-Space
+# 🏡 Saathi-Square
 **Empowering societies to connect, manage, and thrive** – from residents to RWAs to guards, all in one place.
 
 ---
 
 ## 🌟 Overview
 
-Saathi-Space is a modern, modular, and scalable Apartment Society Management Platform built with Java 17, Spring Boot, JWT-based authentication, and microservice-ready architecture.  
+Saathi-Square is a modern, modular, and scalable Apartment Society Management Platform built with Java 17, Spring Boot, JWT-based authentication, and microservice-ready architecture.  
 It empowers residents, guards, and RWAs to collaborate and manage daily society operations seamlessly.
 
 ---
